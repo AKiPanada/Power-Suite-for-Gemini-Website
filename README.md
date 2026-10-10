@@ -1,4 +1,4 @@
-# Power-Suite-for-Gemini-Website
+# Power Suite for-Gemini Website
 This is the public-facing site for my Power Suite for Gemini extension on Chrome.
 
 # Privacy
